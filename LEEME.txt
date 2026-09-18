@@ -1,0 +1,18 @@
+AUDIOGUÍA PARQUE DE LAS ARTES MARAÑÓN — V3
+
+Versión optimizada para teléfono y lectura al aire libre.
+
+Cambios principales:
+- Fotografías de referencia más pequeñas y sin recorte agresivo.
+- Texto y fichas técnicas más grandes.
+- Reproductor de audio grande, con barra gruesa y botones de ±15 segundos.
+- Navegación “Audio anterior / Siguiente audio”.
+- Galerías deslizables con flechas para Cruz del Sur y 11 Umbrales.
+- Correcciones de fichas técnicas y nuevas fotografías.
+
+Para probar en Mac:
+1. Abrí Terminal dentro de esta carpeta.
+2. Ejecutá: python3 -m http.server 8002
+3. Abrí: http://localhost:8002
+
+No borrar la V2 hasta aprobar esta versión.
